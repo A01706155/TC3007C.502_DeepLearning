@@ -2,6 +2,9 @@
 #### Manolo Ramírez Pintor - A01706155
 Módulo 2 Implementación de un modelo de deep learning. (¡Con Tom y Jerry!)   
 
+### Dataset:
+El dataset que usé para este trabajo [fue el siguiente](https://www.kaggle.com/datasets/balabaskar/tom-and-jerry-image-classification). Dentro se encuentra una carpeta de imágenes de Tom y Jerry, perteneciendo a dos episodios de la serie, cuadro por cuadro.
+
 ### Video:
 El video que hice se encuentra [en este link de OneDrive](https://1drv.ms/v/s!AjpnOhcgUf2f2lOd_9-A0avRMUUN?e=yEZnNY). Alternativamente, se puede descargar el repositorio y ver el video que se encuentra en la carpeta ``video``. 😄
 
